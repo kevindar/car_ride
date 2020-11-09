@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "297467391148",
+    "firebase_url": "https://rideshare-2b2e5.firebaseio.com",
+    "project_id": "rideshare-2b2e5",
+    "storage_bucket": "rideshare-2b2e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297467391148:android:f9b37b04aea8b7136c4309",
+        "android_client_info": {
+          "package_name": "com.brotie.car_ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297467391148-soj80e8osao7fg2g4odcnbnmsbgk5cnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArZ7CiI1WFrBtFxbCSZf-uZ2Ul3R25pQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297467391148-soj80e8osao7fg2g4odcnbnmsbgk5cnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
